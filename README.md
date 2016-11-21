@@ -8,3 +8,11 @@ Our mission is to provide a centralized location to upload and publish as many l
 uRepo differs from the official Kodi repository by allowing more Add-ons, discussion and user feedback as well as easy submission from developers.
 
 http://www.urepo.org/
+
+## H2 Install
+
+Click the below link to download the repository zip file:
+
+https://github.com/zag2me/repository.urepo/raw/master/repository.urepo.zip
+
+Go to Kodi >> Add-ons >> Download button >> Install from zip >> select the above zip file from your local storage
